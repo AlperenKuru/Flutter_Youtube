@@ -1,8 +1,8 @@
-# deneme
+# Flutter Youtube Project
 
-A new Flutter project.
+Bu projede geliştirmekde olduğum başka bir projede kullandığım bir eklentinin kullanım şekli vardır.
 
-## Getting Started
+## Kütüphaneler
 
 This project is a starting point for a Flutter application.
 
